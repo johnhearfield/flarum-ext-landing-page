@@ -3,7 +3,7 @@
     "description": "Customizable landing page for non-logged in users",
     "type": "flarum-extension",
     "keywords": ["customization", "flarum", "landing"],
-    "license": "MIT",
+    "license": "GPL-3.0+",
     "version": "v0.1.0-beta.1",
     "authors": [
         {
