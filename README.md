@@ -6,7 +6,7 @@ Currently supports HTML content.
 ## Installation
 To install, use composer:
 ```
-composer require johnhearfield/flarum-ext-landing-lage
+composer require johnhearfield/flarum-ext-landing-page
 ```
 ## Usage
 * Install extension via Composer / Packagist
