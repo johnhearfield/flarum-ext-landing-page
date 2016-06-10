@@ -1,0 +1,35 @@
+{
+    "name": "johnhearfield/flarum-ext-landing-page",
+    "description": "Customizable landing page for non-logged in users",
+    "type": "flarum-extension",
+    "keywords": ["customization", "flarum", "landing"],
+    "license": "MIT",
+    "version": "v0.1.0-beta.1",
+    "authors": [
+        {
+            "name": "John Hearfield",
+            "email": "dev@findingjohn.xyz"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/johnhearfield/flarum-ext-landing-page"
+    },
+    "require": {
+        "flarum/core": "^0.1.0-beta.5",
+    },
+    "autoload": {
+        "psr-4": {
+            "JohnHearfield\\Landing\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Landing Page",
+            "icon": {
+                "name": "home",
+                "backgroundColor": "#ecf0f1",
+                "color": "#34495e"
+            }
+        }
+    }
+}
