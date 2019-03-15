@@ -1,4 +1,7 @@
 # Flarum Landing Page
+![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 This extension allows you to create a customizable landing page that non-logged in users will see.
 
 Currently supports HTML content.
